@@ -1,82 +1,89 @@
-<h2 align="center"><programmer: Abo-molik 👩‍💻/></h2>
 
----
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;IT+Student+%7C+Programmer+%7C+Innovator;Let%27s+build+the+future+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;IT+Student+%7C+Programmer+%7C+Innovator;Let%27s+build+the+future+together!" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </p>
 
----
+<h1 align="center">Hi 👋, I'm Aiman ALmoliki</h1>
+<h3 align="center">Creative Front-End Developer | Future AI Engineer</h3>
 
-<h4 align="left">
-  👩‍💻 <b>Hi there! I'm Abo-molik, an enthusiastic Information Technology student at the Faculty of Engineering, Taiz University.</b><br>
-  🚀 I have a burning passion for programming, creativity, and continuous learning.<br>
-  🌟 I thrive on solving challenges, building projects, and exploring the latest technologies.<br>
-  💡 My goal? To innovate, inspire, and contribute to the global tech community.<br>
-</h4>
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" /></a>
-  <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" /></a>
-  <a href="https://wa.me/yourwhatsapp"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Whatsapp" /></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram" /></a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: px;">
+  <a href="https://github.com/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo/stargazers">
+    <img src="https://img.shields.io/github/stars/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo" alt="Stars"/>
+  </a>
+  <a href="https://github.com/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo/network/members">
+    <img src="https://img.shields.io/github/forks/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo" alt="Forks"/>
+  </a>
+  <a href="https://github.com/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo" alt="Pull Requests"/>
+  </a>
+  <a href="https://github.com/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo" alt="Contributors"/>
+  </a>
+  <a href="https://github.com/Aimnalmoliki81206aimo?tab=followers">
+    <img src="https://img.shields.io/github/followers/Aimnalmoliki81206aimo" alt="GitHub Followers"/>
+  </a>
 </div>
 
----
+<br>
 
-<h3 align="left">🛠️ Languages & Tools</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-</div>
+<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
 
----
-
-<h3 align="left">📊 My Coding Stats</h3>
-<p align="left">
-  <b>Java</b> &nbsp; ███████████████████████▓░ &nbsp; 95.03%<br>
-  <b>Python</b> &nbsp; ▓░░░░░░░░░░░░░░░░░░░░░░░░ &nbsp; 03.16%<br>
-  <b>CSS</b> &nbsp; ████████████████░░░░░░░░ &nbsp; 64.06%<br>
-  <b>HTML5</b> &nbsp; ████████████████░░░░░░░░░░ &nbsp; 62.45%<br>
-  <b>C++</b> &nbsp; ███████░░░░░░░░░░░░░░░░░░ &nbsp; 27.26%
-</p>
-
----
-
-<h3 align="left">🌱 Currently Learning & Exploring</h3>
-<ul>
-  <li>🔭 Working on exciting personal projects and open-source contributions</li>
-  <li>🌐 Exploring advanced web and mobile development</li>
-  <li>🤖 Diving into AI, Machine Learning, and Data Science</li>
-  <li>📚 Reading about cyber security and cloud computing</li>
+<ul style="font-size: 16px; line-height: 1.6;">
+  <li>🏫 IT student @ Taiz University</li>
+  <li>🔭 Solo coder & skill builder</li>
+  <li>🌱 Learning Python, JS, and AI</li>
+  <li>📫 Email: <a href="mailto:aimnalmoliki072@gmail.com"><code>aimnalmoliki072@gmail.com</code></a></li>
+  <li>🤔 Open for teamwork & learning</li>
+  <li>🧓‍♂️ Love learning new tech</li>
+  <li>⚡ Enjoy solving problems!</li>
 </ul>
 
----
-
-<h3 align="left">🤝 Let's Connect & Collaborate!</h3>
-<p align="left">
-  I’m always open to discussing new projects, creative ideas, or opportunities to be part of your vision.<br>
-  <b>Feel free to reach out via any of the platforms above!</b>
+<br>
+ 
+<h2 align="center">🛠 Languages and Tools</h2>
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; padding-top:2rem">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%23157122.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Photoshop-%23D83C36.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
 </p>
 
-<div align="right">
-  <img height="150" src="https://camo.githubusercontent.com/4371d96f8974ec6e88a9f2b5271efae1ffebfe28817e101ff07a04a3dd2d75d3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d" />
-</div>
+<br>
 
----
+<h2>
+  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35" />
+  GitHub Stats
+</h2>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aimnalmoliki81206aimo&theme=monokai" alt="Profile Details" width="100%">
+
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aimnalmoliki81206aimo&theme=monokai" alt="Repos" width="240px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aimnalmoliki81206aimo&theme=monokai" alt="Top Language" width="240px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aimnalmoliki81206aimo&theme=monokai" alt="Stats" width="240px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aimnalmoliki81206aimo&theme=monokai&utcOffset=8" alt="Time" width="240px">
+</p>
+
+<br>
+
+<p style="font-size: 18px; font-weight: 500;">⚠ <strong>Note:</strong> The <code>Top Languages</code> section reflects languages in my public repositories, not my proficiency level.
+</p>
+
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="80">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="80">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="80">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80">
+</p>
