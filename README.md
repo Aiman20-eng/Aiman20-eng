@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;IT+Student+%7C+Programmer+%7C+Innovator;Let%27s+build+the+future+together!" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </p>
@@ -8,20 +6,20 @@
 <h3 align="center">Creative Front-End Developer | Future AI Engineer</h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: px;">
-  <a href="https://github.com/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo/stargazers">
-    <img src="https://img.shields.io/github/stars/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo" alt="Stars"/>
+  <a href="https://github.com/Aiman20-eng/Aiman20-eng/stargazers">
+    <img src="https://img.shields.io/github/stars/Aiman20-eng/Aiman20-eng" alt="Stars"/>
   </a>
-  <a href="https://github.com/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo/network/members">
-    <img src="https://img.shields.io/github/forks/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo" alt="Forks"/>
+  <a href="https://github.com/Aiman20-eng/Aiman20-eng/network/members">
+    <img src="https://img.shields.io/github/forks/Aiman20-eng/Aiman20-eng" alt="Forks"/>
   </a>
-  <a href="https://github.com/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo/pulls">
-    <img src="https://img.shields.io/github/issues-pr/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo" alt="Pull Requests"/>
+  <a href="https://github.com/Aiman20-eng/Aiman20-eng/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Aiman20-eng/Aiman20-eng" alt="Pull Requests"/>
   </a>
-  <a href="https://github.com/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Aimnalmoliki81206aimo/Aimnalmoliki81206aimo" alt="Contributors"/>
+  <a href="https://github.com/Aiman20-eng/Aiman20-eng/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Aiman20-eng/Aiman20-eng" alt="Contributors"/>
   </a>
-  <a href="https://github.com/Aimnalmoliki81206aimo?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aimnalmoliki81206aimo" alt="GitHub Followers"/>
+  <a href="https://github.com/Aiman20-eng?tab=followers">
+    <img src="https://img.shields.io/github/followers/Aiman20-eng" alt="GitHub Followers"/>
   </a>
 </div>
 
@@ -65,13 +63,13 @@
   GitHub Stats
 </h2>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aimnalmoliki81206aimo&theme=monokai" alt="Profile Details" width="100%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aiman20-eng&theme=monokai" alt="Profile Details" width="100%">
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aimnalmoliki81206aimo&theme=monokai" alt="Repos" width="240px">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aimnalmoliki81206aimo&theme=monokai" alt="Top Language" width="240px">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aimnalmoliki81206aimo&theme=monokai" alt="Stats" width="240px">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aimnalmoliki81206aimo&theme=monokai&utcOffset=8" alt="Time" width="240px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aiman20-eng&theme=monokai" alt="Repos" width="240px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aiman20-eng&theme=monokai" alt="Top Language" width="240px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aiman20-eng&theme=monokai" alt="Stats" width="240px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aiman20-eng&theme=monokai&utcOffset=8" alt="Time" width="240px">
 </p>
 
 <br>
