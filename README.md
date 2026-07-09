@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Animated Header -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:02569B&height=250&section=header&text=Aiman%20Adnan&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=%20%20%20%20%20%20Software%20Engineer%20%7C%20Flutter%20Developer&descSize=40&descColor=ffffff" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:02569B&height=300&section=header&text=Aiman%20Adnan&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=%20%20%20%20%20%20Software%20Engineer%20%7C%20Flutter%20Developer&descSize=22&descColor=ffffff" width="100%" />
   <!-- Typing SVG Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=800&lines=Information+Technology+Engineering+Student;Building+Scalable+Mobile+%26+Web+Applications;Passionate+about+Clean+Architecture;Transforming+Ideas+Into+Production-Ready+Software" alt="Typing SVG" />
