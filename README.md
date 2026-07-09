@@ -1,253 +1,157 @@
 <div align="center">
+  <!-- Dynamic Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:02569B&height=250&section=header&text=Aiman%20Adnan&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Flutter%20Developer&descSize=22&descColor=ffffff" width="100%" />
 
-# 👋 Hello, I'm Aiman Adnan
+  <!-- Typing SVG Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=800&lines=Information+Technology+Engineering+Student;Building+Scalable+Mobile+%26+Web+Applications;Passionate+about+Clean+Architecture;Transforming+Ideas+Into+Production-Ready+Software" alt="Typing SVG" />
+  </a>
 
-### Information Technology Engineering Student • Flutter Developer • Software Engineer
+  <br><br>
 
-Building scalable mobile applications, modern web platforms, and production-ready software systems.
+  <!-- Clean Badges -->
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/></a>
+  </p>
 
-<p>
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
-
-</p>
-
----
-
-### 🚀 Engineering is not just writing code.
-
-I enjoy transforming ideas into scalable software through clean architecture, maintainable code, modern engineering practices, and continuous learning.
-
+  <i>"Engineering is not just writing code. I enjoy transforming ideas into scalable software through clean architecture, maintainable code, modern engineering practices, and continuous learning."</i>
 </div>
 
 ---
 
-# 🧭 About Me
+### 👨‍💻 **Who Am I?**
 
-- 🎓 Information Technology Engineering Student
-- 📱 Flutter Mobile Developer
-- 🌐 Full-Stack Web Developer
-- 🏗 Passionate about Software Architecture
-- ⚡ Interested in Clean Architecture & Scalable Systems
-- 🤖 Learning AI-powered Applications
-- 🌱 Always improving through real-world projects
-
----
-
-# 🚀 Current Focus
-
-```text
-📱 Flutter Development
-🏗 Clean Architecture
-⚡ NestJS Backend
-🗄 PostgreSQL
-🤖 AI Integration
-🚀 Production Mobile Applications
-```
+<table border="0" width="100%" align="center">
+  <tr>
+    <td width="70%">
+      <ul>
+        <li>🎓 <b>Background:</b> Information Technology Engineering Student.</li>
+        <li>📱 <b>Core Focus:</b> Flutter Mobile Developer & Full-Stack Web Developer.</li>
+        <li>🏗 <b>Architecture:</b> Passionate about Clean Architecture & SOLID Principles.</li>
+        <li>🤖 <b>Interests:</b> AI-powered Applications & Scalable Systems.</li>
+        <li>🌱 <b>Philosophy:</b> Always improving through real-world, production-ready projects.</li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <!-- Animated Developer Graphic -->
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="130" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🏛 Engineering Principles
+### 💻 **Technology Stack**
 
-✔ Clean Code
-
-✔ SOLID Principles
-
-✔ Clean Architecture
-
-✔ Scalability
-
-✔ Performance
-
-✔ Maintainability
-
-✔ Security
-
-✔ Documentation
-
-✔ Version Control
-
-✔ Continuous Learning
-
----
-
-# 🗂 Repository Directory
-
-## 📱 Mobile Development & Software Architecture
-
-| Repository | Description |
-|------------|-------------|
-| **[Smart Clean Architecture](https://github.com/Aiman20-eng/smart-clean-architecture)** | Production-ready Flutter architecture template following enterprise architecture principles. |
-| **[Flutter Practice Workspace](https://github.com/Aiman20-eng/flutter-practice-projects)** | Modular Flutter workspace containing learning projects, reusable components, UI experiments, and application prototypes. |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Mobile & Frontend</b></td>
+      <td align="center"><b>Backend & Databases</b></td>
+      <td align="center"><b>Languages & Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nextjs,react,ts,tailwind" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nestjs,nodejs,php,prisma,postgres,mysql" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,vscode,docker,figma" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🌐 Full-Stack Applications
+### 🗂 **Engineering Projects & Directory**
 
-| Repository | Description |
-|------------|-------------|
-| **[Codeian Website](https://github.com/Aiman20-eng/codeian-website)** | Enterprise web platform built using Next.js, TypeScript and Prisma. |
-| **[English Learning Tracker](https://github.com/Aiman20-eng/english-learning-tracker)** | React & TypeScript educational tracking application. |
-| **[PHP Multi-User Chat](https://github.com/Aiman20-eng/php-multiuser-chat)** | Native PHP application demonstrating authentication, sessions, and multi-user communication. |
-
----
-
-## 🎨 Front-End Engineering
-
-| Repository | Description |
-|------------|-------------|
-| **[Aiman's Portfolio](https://github.com/Aiman20-eng/aiman-portfolio)** | Personal portfolio website showcasing my work and experience. |
-| **[ZadTech Website](https://github.com/Aiman20-eng/zadtech-website)** | Responsive modern landing page. |
-| **[Dopacode Blog UI](https://github.com/Aiman20-eng/dopacode-blog-ui)** | Static blog interface focused on clean UI design. |
-
----
-
-## 💻 Desktop Development
-
-| Repository | Description |
-|------------|-------------|
-| **[Student Registration Form](https://github.com/Aiman20-eng/student-registration-form)** | Windows Forms application built with C# and .NET. |
-
----
-
-## 🐍 Python & Academic Projects
-
-| Repository | Description |
-|------------|-------------|
-| **[Python Practice Projects](https://github.com/Aiman20-eng/python-practice-projects)** | Python exercises, automation scripts and educational mini projects. |
-| **[University Group Projects](https://github.com/Aiman20-eng/university-group-projects)** | Collaborative university assignments demonstrating teamwork and Git workflow. |
-
----
-
-# 💻 Technology Stack
-
-## Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,php,prisma"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>
-
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python"/>
-</p>
-
-## Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,figma"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Mobile & Architecture</h4>
+      <ul>
+        <li><a href="https://github.com/Aiman20-eng/smart-clean-architecture"><b>Smart Clean Architecture:</b></a> Production-ready Flutter architecture template following enterprise principles.</li>
+        <li><a href="https://github.com/Aiman20-eng/flutter-practice-projects"><b>Flutter Practice Workspace:</b></a> Modular workspace containing learning projects and UI experiments.</li>
+      </ul>
+      <h4>🌐 Full-Stack Web Apps</h4>
+      <ul>
+        <li><a href="https://github.com/Aiman20-eng/codeian-website"><b>Codeian Platform:</b></a> Enterprise web platform built using Next.js, TypeScript and Prisma.</li>
+        <li><a href="https://github.com/Aiman20-eng/english-learning-tracker"><b>English Tracker:</b></a> React & TypeScript educational tracking app.</li>
+        <li><a href="https://github.com/Aiman20-eng/php-multiuser-chat"><b>PHP Chat App:</b></a> Native application demonstrating sessions and multi-user communication.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Front-End Engineering</h4>
+      <ul>
+        <li><a href="https://github.com/Aiman20-eng/aiman-portfolio"><b>Personal Portfolio:</b></a> Website showcasing my work and experience.</li>
+        <li><a href="https://github.com/Aiman20-eng/zadtech-website"><b>ZadTech Landing Page:</b></a> Responsive modern UI.</li>
+        <li><a href="https://github.com/Aiman20-eng/dopacode-blog-ui"><b>Dopacode Blog:</b></a> Static interface focused on clean typography.</li>
+      </ul>
+      <h4>💻 Desktop, Python & Academia</h4>
+      <ul>
+        <li><a href="https://github.com/Aiman20-eng/student-registration-form"><b>Registration Form:</b></a> Desktop app built with C# and .NET.</li>
+        <li><a href="https://github.com/Aiman20-eng/python-practice-projects"><b>Python Workspace:</b></a> Scripts and educational mini-projects.</li>
+        <li><a href="https://github.com/Aiman20-eng/university-group-projects"><b>University Projects:</b></a> Teamwork and collaborative Git workflows.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📈 Development Roadmap
+### 📈 **Development Roadmap & Focus**
 
-## ✅ Completed
-
-- Git
-- GitHub
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-
----
-
-## 🚧 Currently Learning
-
-- Flutter
-- Dart
-- Clean Architecture
-- NestJS
-- PostgreSQL
-- Mobile Engineering
-- Software Design Patterns
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>✅ Mastered</b><br><br>
+      HTML/CSS • JS/TS<br>React • Git/GitHub
+    </td>
+    <td align="center" width="34%">
+      <b>🚧 Current Focus</b><br><br>
+      Flutter/Dart • NestJS<br>Clean Architecture • PostgreSQL
+    </td>
+    <td align="center" width="33%">
+      <b>🎯 Future Goals</b><br><br>
+      System Design • Microservices<br>DevOps/AWS • K8s
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Future Goals
+### 📊 **GitHub Analytics Dashboard**
 
-- System Design
-- Microservices
-- DevOps
-- AWS
-- Kubernetes
-- Open Source Contributions
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aiman20-eng&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiman20-eng&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiman20-eng&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiman20-eng&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-📧 Email: **Your Email**
-
-💼 LinkedIn: **Your LinkedIn**
-
-🌐 Portfolio: **Your Portfolio**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aiman20-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiman20-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="48%" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiman20-eng&theme=tokyonight&hide_border=true&background=1A1B27" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiman20-eng&theme=tokyo-night&hide_border=true&bg_color=1A1B27" width="48%" />
+</div>
 
 ---
 
 <div align="center">
-
-## ⭐ Thanks for visiting my GitHub Profile
-
-*"Great software is engineered, not simply coded."*
-
+  <h3>🤝 Let's Connect & Collaborate</h3>
+  <p>
+    <a href="mailto:YourEmailHere"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="YourLinkedInHere"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="YourPortfolioHere"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/></a>
+  </p>
+  <br>
+  <p><i>"Great software is engineered, not simply coded."</i></p>
+  
+  <!-- Dynamic Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:02569B&height=120&section=footer" width="100%"/>
 </div>
